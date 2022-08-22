@@ -1,6 +1,6 @@
 ---
-title: About
-icon: fas fa-info-circle
+title: Notes
+icon: fa-solid fa-comment
 order: 4
 ---
 
