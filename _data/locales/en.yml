@@ -5,18 +5,16 @@
 layout:
   post: Post
   category: Category
-  region: Region
   tag: Tag
 
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
-  home: Wines
-  varietals: Varietals
-  regions: Regions
-  #tags2: Tags2
-  cellar: Cellar
-  notes: Notes
+  home: Home
+  categories: Categories
+  tags: Tags
+  archives: Archives
+  about: About
 
 # the text displayed in the search bar & search results
 search:
@@ -78,8 +76,8 @@ post:
 # categories page
 categories:
   category_measure:
-    singular: region
-    plural: regions
+    singular: category
+    plural: categories
   post_measure:
     singular: post
     plural: posts
