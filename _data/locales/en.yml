@@ -10,11 +10,12 @@ layout:
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
-  home: Home
-  categories: Categories
-  tags: Tags
-  archives: Archives
-  about: About
+  home: Wines
+  varietals: Varietals
+  regions: Regions
+  tags2: Tags2
+  cellar: Cellar
+  notes: Notes
 
 # the text displayed in the search bar & search results
 search:
@@ -76,8 +77,8 @@ post:
 # categories page
 categories:
   category_measure:
-    singular: category
-    plural: categories
+    singular: varietal
+    plural: varietals
   post_measure:
     singular: post
     plural: posts
