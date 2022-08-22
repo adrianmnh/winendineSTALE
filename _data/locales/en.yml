@@ -12,11 +12,11 @@ layout:
 tabs:
   # format: <filename_without_extension>: <value>
   home: Wines
-  regions: Regions
-  varietals: Varietals
+  categories: Regions
+  tags: Varietals
+  archives: Cellar
+  about: Notes
   #tags2: Tags2
-  cellar: Cellar
-  notes: Notes
 
 # the text displayed in the search bar & search results
 search:
