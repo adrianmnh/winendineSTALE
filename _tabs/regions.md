@@ -1,6 +1,6 @@
 ---
 layout: regions
 title: Regions
-icon: fas fa-tag
-order: 2
+icon: fa-solid fa-map-location-dot
+order: 1
 ---

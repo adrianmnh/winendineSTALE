@@ -13,7 +13,7 @@ tabs:
   home: Accueil
   categories: Catégories
   tags: Tags
-  archives: Archives
+  cellar: cellar
   about: A propos de
 
 # the text displayed in the search bar & search results

@@ -5,6 +5,7 @@
 layout:
   post: Post
   category: Category
+  region: Region
   tag: Tag
 
 # The tabs of sidebar
@@ -13,7 +14,7 @@ tabs:
   home: Wines
   varietals: Varietals
   regions: Regions
-  tags2: Tags2
+  #tags2: Tags2
   cellar: Cellar
   notes: Notes
 
@@ -77,8 +78,8 @@ post:
 # categories page
 categories:
   category_measure:
-    singular: varietal
-    plural: varietals
+    singular: region
+    plural: regions
   post_measure:
     singular: post
     plural: posts

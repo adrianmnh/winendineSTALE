@@ -1,7 +1,7 @@
 ---
 layout: archives
 title: Cellar
-icon: fas fa-archive
+icon: fa-solid fa-box-open
 order: 4
 ---
 

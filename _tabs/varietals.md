@@ -1,6 +1,6 @@
 ---
 layout: varietals
 title: Varietals
-icon: fas fa-stream
-order: 1
+icon: fa-brands fa-pagelines
+order: 2
 ---

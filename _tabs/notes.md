@@ -1,6 +1,6 @@
 ---
 title: Notes
-icon: fas fa-info-circle
+icon: fa-solid fa-champagne-glasses
 order: 5
 ---
 
