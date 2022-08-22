@@ -2,7 +2,7 @@
 title: Writing a New Post
 author: cotes
 date: 2022-08-08 14:10:00 +0800
-categories: [Chardonnay, Petit Franc]
+categories: [Chardonnay, Petit]
 tags: [writing]
 render_with_liquid: false
 ---
