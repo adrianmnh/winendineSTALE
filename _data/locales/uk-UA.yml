@@ -13,7 +13,7 @@ tabs:
   home: Домашня сторінка
   categories: Категорії
   tags: Теги
-  cellar: Архів
+  archives: Архів
   about: Про сайт
 
 # the text displayed in the search bar & search results
